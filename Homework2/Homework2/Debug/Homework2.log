@@ -1,0 +1,45 @@
+﻿  main.cpp
+D:\Homework2\Homework2\main.cpp(69,20): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Homework2\Homework2\main.cpp(70,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Homework2\Homework2\main.cpp(71,28): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Homework2\Homework2\main.cpp(71,28): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Homework2\Homework2\main.cpp(73,28): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Homework2\Homework2\main.cpp(73,28): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Homework2\Homework2\main.cpp(78,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Homework2\Homework2\main.cpp(78,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Homework2\Homework2\main.cpp(121,21): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Homework2\Homework2\main.cpp(122,22): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Homework2\Homework2\main.cpp(125,20): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Homework2\Homework2\main.cpp(157,20): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Homework2\Homework2\main.cpp(218,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Homework2\Homework2\main.cpp(219,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Homework2\Homework2\main.cpp(220,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Homework2\Homework2\main.cpp(221,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Homework2\Homework2\main.cpp(227,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Homework2\Homework2\main.cpp(228,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Homework2\Homework2\main.cpp(229,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Homework2\Homework2\main.cpp(230,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Homework2\Homework2\main.cpp(231,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Homework2\Homework2\main.cpp(232,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Homework2\Homework2\main.cpp(233,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Homework2\Homework2\main.cpp(240,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Homework2\Homework2\main.cpp(241,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Homework2\Homework2\main.cpp(242,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Homework2\Homework2\main.cpp(243,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Homework2\Homework2\main.cpp(245,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Homework2\Homework2\main.cpp(246,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Homework2\Homework2\main.cpp(247,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Homework2\Homework2\main.cpp(248,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Homework2\Homework2\main.cpp(254,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Homework2\Homework2\main.cpp(255,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Homework2\Homework2\main.cpp(256,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Homework2\Homework2\main.cpp(257,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Homework2\Homework2\main.cpp(263,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Homework2\Homework2\main.cpp(264,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Homework2\Homework2\main.cpp(265,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Homework2\Homework2\main.cpp(266,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Homework2\Homework2\main.cpp(271,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Homework2\Homework2\main.cpp(272,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Homework2\Homework2\main.cpp(311,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Homework2\Homework2\main.cpp(333,51): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+  Homework2.vcxproj -> D:\Homework2\Debug\Homework2.exe
