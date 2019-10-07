@@ -5,3 +5,5 @@ to run the program in Visual Studio, there are 2 choices:
   
   To run the program in Linux or MAC: 
   -Use Makefile and run the content of the file main.cpp in directory homework2/homework2/main.cpp
+  
+In this homework 2, I use Visual Studio and install 2 package fleeglut and glew to make it run.
