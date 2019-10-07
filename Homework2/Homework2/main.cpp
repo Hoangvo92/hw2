@@ -28,6 +28,9 @@
 #include <cmath>
 #include <cstdio>
 #include <cstdlib>
+//my include of library
+
+
 
 #if __APPLE__
 #include <GLUT/glut.h>
@@ -284,8 +287,8 @@ void problem4() {
 	//Note: problem2 can affect the default color setting
 	//draw the hand with V sign
 	glPushMatrix();
-	glColorMaterial(GL_FRONT, GL_DIFFUSE);
-	glEnable(GL_COLOR_MATERIAL);
+	//glColorMaterial(GL_FRONT, GL_DIFFUSE);
+	//glEnable(GL_COLOR_MATERIAL);  //not solving the influence of problem 2
 	glPixelTransferf(GL_RED_BIAS, 0.1);
 	part1(); part2(); part3(); part4(); part5();
 	//draw victory
